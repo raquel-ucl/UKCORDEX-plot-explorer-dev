@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UKCORDEX-plot-explorer-dev/static/css/main.a9e5165c.css",
-    "main.js": "/UKCORDEX-plot-explorer-dev/static/js/main.a2d2b20d.js",
+    "main.js": "/UKCORDEX-plot-explorer-dev/static/js/main.14e259ba.js",
     "static/js/787.d7b3ca26.chunk.js": "/UKCORDEX-plot-explorer-dev/static/js/787.d7b3ca26.chunk.js",
     "index.html": "/UKCORDEX-plot-explorer-dev/index.html",
     "main.a9e5165c.css.map": "/UKCORDEX-plot-explorer-dev/static/css/main.a9e5165c.css.map",
-    "main.a2d2b20d.js.map": "/UKCORDEX-plot-explorer-dev/static/js/main.a2d2b20d.js.map",
+    "main.14e259ba.js.map": "/UKCORDEX-plot-explorer-dev/static/js/main.14e259ba.js.map",
     "787.d7b3ca26.chunk.js.map": "/UKCORDEX-plot-explorer-dev/static/js/787.d7b3ca26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9e5165c.css",
-    "static/js/main.a2d2b20d.js"
+    "static/js/main.14e259ba.js"
   ]
 }
